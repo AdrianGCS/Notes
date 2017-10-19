@@ -34,4 +34,5 @@ En notación de backus-naur
 - Ctrl-D : Final de linea
 
 Y luego tenemos readline
-2p
+
+p2

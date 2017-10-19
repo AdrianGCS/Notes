@@ -14,3 +14,34 @@ Siempre alerta estás
 - rm : Remove, quitar archivo
 - rm -rf: (**r**ecursivo **f**orce)
 - cat : Concatenar archivos
+
+git:
+
+- clone
+- commit
+- status
+- add (Vigilar nuevos ficheros)
+- git add -u : (remove delete files)
+- pull
+- push
+
+seq: frecuencia de numeros 
+cal: calendario
+
+### Comandos que unen
+
+cat: conectar archivos en la terminal
+paste: Unir dos ficheros en vertical
+join : combinaciones entre dos ficheros 
+
+### Comandos que dividen
+
+tail -2 archivos
+tail -f (deja el fichero abierto)
+head
+cut: corta vertical cut -d " " -f1
+split : Divide horizontal
+
+### 
+
+2p

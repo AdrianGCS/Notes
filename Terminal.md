@@ -7,3 +7,10 @@
 - &lt; Redirigir la entrada
 - &lt;&lt; : Here document
 - &lt;&lt;&lt; :Here string 
+
+##Metacaracteres
+
+~:Mi directorio home
+. : Directorio actual
+.. : Directorio de arriba
+- : Fichero que representa la terminal

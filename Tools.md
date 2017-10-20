@@ -14,7 +14,7 @@ Siempre alerta estás
 - rm : Remove, quitar archivo
 - rm -rf: (**r**ecursivo **f**orce)
 - cat : Concatenar archivos
-
+- mv :Mover , cambiar el nombre
 git:
 
 - clone
@@ -43,5 +43,9 @@ cut: corta vertical cut -d " " -f1
 split : Divide horizontal
 
 ### 
-
-2p
+man : Hoja de manu	
+tr: translade
+ -s squeeze
+ uniq -c :Deja filas unicas
+ sort : ordena
+ wget: descarga por internet

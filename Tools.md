@@ -42,7 +42,7 @@ head
 cut: corta vertical cut -d " " -f1
 split : Divide horizontal
 
-### 
+### Otras
 man : Hoja de manu	
 tr: translade
  -s squeeze

@@ -25,27 +25,35 @@ git:
 - pull
 - push
 
-seq: frecuencia de numeros 
-cal: calendario
+- seq: frecuencia de numeros 
+- cal: calendario
 
 ### Comandos que unen
 
-cat: conectar archivos en la terminal
-paste: Unir dos ficheros en vertical
-join : combinaciones entre dos ficheros 
+- cat: conectar archivos en la terminal
+- paste: Unir dos ficheros en vertical
+- join : combinaciones entre dos ficheros 
 
 ### Comandos que dividen
 
-tail -2 archivos
-tail -f (deja el fichero abierto)
-head
-cut: corta vertical cut -d " " -f1
-split : Divide horizontal
+- tail -2 archivos
+- tail -f (deja el fichero abierto)
+- head
+- cut: corta vertical cut -d " " -f1
+- split : Divide horizontal
 
 ### Otras
-man : Hoja de manu	
-tr: translade
- -s squeeze
- uniq -c :Deja filas unicas
- sort : ordena
- wget: descarga por internet
+
+- man : Hoja de manu	
+- tr: translade
+- -s squeeze
+- uniq -c :Deja filas unicas
+- sort : ordena
+- wget: descarga por internet
+- bc : Calculadora 
+
+# Para buscar
+
+- grep : Filtra lineas
+- find : Busca ficheros
+- Which : Para buscar un ejecutable
